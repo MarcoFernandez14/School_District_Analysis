@@ -4,6 +4,13 @@
 A City School distric requested to analyze standarized test data and funding data to understand performance trends and patterns. These insights are used for discussion and strategic decisions at school and district level. The analysis assits the School Borad and Superintendent in making decisions regarding school budget allotments.
 However, after the analysis was performed, the school board notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the data is replaced, the school district analysis the school distric analysis has to be repeted.
 
+## Evironment
+* Python 3.7.3
+* Anaconda 1.9.0
+* Conda 4.12.0
+* Jupyter notebook 6.1.12
+* Pandas 1.3.4
+
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
