@@ -29,9 +29,32 @@ Note that there is a drop in the ***%Passing Math*** and the ***%Passing Reading
 However, this is mainly because we are using the total Thomas Hight School students population to calculate the passing percentages. Once we calculate the passing percentages excluding 9th grade students' test results and students count (including only 10th to 12th grade), we obtain an ***%Overall Passing*** of 90.63%.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+In terms of ***%Overall Passing***, Thomas High School ranking does not change versus the original data when we replace the 9th graders math and reading scores.  
+The ***%Overall Passing*** in the oridginal data is 90.94% which gives Thomas Hicg School the second place when compared to other schools.  
+The ***%Overall Passing*** in the adjusted (no 9th graders math and reading scores) data is 90.63% which gives Thomas Hicg School the second place when compared to other schools.
+Original Data  
+![high_performing_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Top%20performance%20Original.png)
+Adjusted Data  
+![high_performing_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Top%20performance%20Adjusted.png)
+
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
+Using the original data, Thomas High School 9th grade avergare math score is 83.6 and the average reading score is 83.7.
+After replacing the 9th grade scores, the result is ***NaN***.  
+Original Data    
+![math_by_grade_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Original.png)  
+![reading_by_grade_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Original.png)  
+Adjusted Data  
+![math_by_grade_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Adjusted.png)   
+![reading_by_grade_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Adjusted.png)  
+
 #### Scores by school spending
+Thomas High School is in the ***$631-645*** Range. We can observe the changes in the tenths and hindreths below.  
+Original Data  
+![spending_ranges_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20Original.png)   
+Adjusted Data  
+![spending_ranges_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20Adjusted.png) 
+
 #### Scores by school size
 #### Scores by school type
 
