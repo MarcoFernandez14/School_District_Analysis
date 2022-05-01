@@ -40,7 +40,7 @@ Adjusted Data
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 Using the original data, Thomas High School 9th grade avergare math score is 83.6 and the average reading score is 83.7.
-After replacing the 9th grade scores, the result is ***NaN***.  
+After replacing the 9th grade scores, the result is ***nan***.  
 Original Data    
 ![math_by_grade_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Math%20Scores%20by%20Grade%20Original.png)  
 ![reading_by_grade_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Original.png)  
@@ -49,13 +49,24 @@ Adjusted Data
 ![reading_by_grade_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Reading%20Scores%20by%20Grade%20Adjusted.png)  
 
 #### Scores by school spending
-Thomas High School is in the ***$631-645*** Range. We can observe the changes in the tenths and hindreths below.  
+Thomas High School is in the ***$631-645*** Range. We can observe the changes in the tenths and hundreths below.  
 Original Data  
 ![spending_ranges_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20Original.png)   
 Adjusted Data  
 ![spending_ranges_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/Spending%20Ranges%20Adjusted.png) 
 
 #### Scores by school size
+Thomas High School belongs to the ***Medium (1000-1999)*** group. We can observe the changes in the tenths and hundreths below.  
+Original Data  
+![size_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/School%20Size%20Original.png)   
+Adjusted Data  
+![size_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/School%20Size%20Adjusted.png) 
+
 #### Scores by school type
+Thomas High School belongs to the ***Charter*** school type. We can observe the changes in the tenths and hundreths below.  
+Original Data  
+![type_original](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/School%20Type%20Original.png)   
+Adjusted Data  
+![type_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/School%20Type%20Adjusted.png) 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
