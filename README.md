@@ -69,4 +69,11 @@ Original Data
 Adjusted Data  
 ![type_adjusted](https://github.com/MarcoFernandez14/School_District_Analysis/blob/main/Resources/School%20Type%20Adjusted.png) 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+The main changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:  
+1. The Thomas High School***%Overall pasing*** went from 90.95% to 65.08%.
+2. Once the 9th greade students were removed from the students count, Thomas High School***%Overall pasing*** changed to 90.63%.
+3. The Thomas High School 9th grade math and reading scores are shown as ***nan***
+4. Once the 9th greade students were removed from the students count, Thomas High School scores by school spending, size and type saw only minor variations (tenths and hundreths).
+
+  
